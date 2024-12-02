@@ -1,3 +1,7 @@
+---
+[![](https://visitcount.itsvg.in/api?id=devhimelali&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 💫 About Me:
 👋 About Me<br><br>I'm a Laravel Developer and Front-End Developer passionate about crafting modern, efficient, and user-friendly web applications. With expertise in Laravel, Vue.js, TypeScript, JavaScript, and CSS frameworks like TailwindCSS and Bootstrap, I thrive on turning ideas into scalable and maintainable solutions.<br><br>🌟 What I Love:<br>Building seamless user experiences.<br>Solving complex challenges with clean and efficient code.<br>Exploring new technologies to stay ahead in web development trends.<br><br>🚀 Current Focus:<br>I'm actively working on developing modern web applications that align functionality with sleek designs and optimal performance.<br><br>Feel free to connect or explore my repositories to see what I've been working on!
 
