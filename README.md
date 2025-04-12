@@ -39,6 +39,8 @@
   <img src="https://profile-counter.glitch.me/devhimelali/count.svg?"  />
 </div>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devhimel)](https://github.com/anuraghazra/github-readme-stats)
+
 ###
 
 <div align="center">
