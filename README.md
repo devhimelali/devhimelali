@@ -10,26 +10,18 @@
 <h2 align="left">💫 About Me:</h2>
 
 ###
+I’ve always been fascinated by how great design and clean code can turn complex ideas into seamless digital experiences.
 
-<p align="left">I’ve always been fascinated by how great design and clean code can turn complex ideas into seamless digital experiences.</p>
+Early in my journey, I noticed how many businesses struggled with slow websites, outdated systems, and frustrating user interfaces that drove customers away. That problem inspired me to learn how to build **fast**, **scalable**, and **user-friendly solutions** — and I haven’t stopped since.
 
-###
+Today, I work with a wide range of technologies including **_HTML_**, **_CSS_**, **_SCSS_**, **_JavaScript_**, **_TypeScript_**, **_jQuery_**, **_Bootstrap_**, **_TailwindCSS_**, **_Alpine.js_**, **_Vue.js_**, **_Pinia_**, **_Axios_**, **_React.js_**, **_Redux_**, **_Next.js_**, **_PHP_**, **_Laravel_**, **_WordPress_**, **_Git/GitHub_**, **_MySQL_**, **_PostgreSQL_**, **_MongoDB_**, **_Supabase_**, and **_Postman_**. I use these tools to craft responsive web apps, integrate APIs, and build systems that solve real business problems.
 
-<p align="left">With a deep love for coding and problem-solving, I take pride in delivering projects faster than expected without compromising quality. Whether it's creating intuitive user interfaces or developing complex backend logic, I focus on performance, responsiveness, and cross-browser compatibility.</p>
+My approach is simple: understand the problem, design an elegant solution, and deliver a product that improves performance and user experience. I care about writing maintainable code, optimizing for speed, and creating intuitive interfaces that engage users and drive results.
 
-###
+I’m passionate about collaborating with businesses and teams who want to bring bold ideas to life.
 
-<h5 align="left">💡 My strengths:</h5>
+📩 Let’s connect — if you need a developer who can transform challenges into well-built, high-performing applications, I’d love to talk.
 
-###
-
-<p align="left">Lightning-fast development speed ⏱️<br>Pixel-perfect, mobile-first designs 📱<br>Clean, maintainable, and secure code 🔐<br>Strong communication and teamwork skills 🤝</p>
-
-###
-
-<p align="left">I believe in hard work, quality service, and honest collaboration. Every project I take on is an opportunity to grow, innovate, and create meaningful digital experiences.</p>
-
-###
 
 <p align="left">👁️‍🗨️ Profile views</p>
 
