@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">I'm a passionate Full-Stack Developer with a proven track record of building fast, responsive, and user-friendly web applications. I specialize in Laravel, Vue.js, PHP, JavaScript, Tailwind CSS, and MySQL, blending clean front-end design with robust, scalable back-end architecture.</p>
+<p align="left">I’ve always been fascinated by how great design and clean code can turn complex ideas into seamless digital experiences.</p>
 
 ###
 
