@@ -1,4 +1,4 @@
-## Full-Stack Developer | PHP, Laravel, Mysql, JavaScript, Vue.js, Tailwind CSS, Bootstrap | Web App Specialist | Passionate about Clean Code & Scalable Solutions
+## Full-Stack Web Developer | Laravel, React, Vue, Next.js, Tailwind | Building Fast & Scalable Web Apps | Web App Specialist | Passionate about Clean Code & Scalable Solutions
 
 <br/>
 <div align="center">
