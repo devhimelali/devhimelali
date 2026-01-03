@@ -49,7 +49,7 @@ I’m passionate about collaborating with businesses and teams who want to bring
 
 ## 📊 This year I spent my time on
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devhimel)](https://github.com/anuraghazra/github-readme-stats)
+<figure><embed src="https://wakatime.com/share/@devhimel/972e4ce8-dbf9-4105-bdc7-3f8ff500a55b.svg"></embed></figure>
 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 <h2 align="left">🌐 Socials:</h2>
