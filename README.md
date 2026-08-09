@@ -4,6 +4,8 @@
 
 <div align="center">
   <img height="200" src="https://github.com/devhimelali/devhimelali/raw/main/banner.jpeg" alt="Himel Ali banner" />
+  <br/>
+  <img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" width="320" alt="Coding animation" />
 </div>
 
 <br/>
@@ -56,6 +58,31 @@ I also lean into **AI-assisted engineering** with tools like **Cursor** and **Lo
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devhimelali&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" height="160" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devhimelali&layout=compact&langs_count=5&theme=transparent&hide_border=true&card_width=320" height="160" alt="Top languages" />
+</div>
+
+<br/>
+
+### Activity & achievements
+
+<!-- isocalendar via shared instance; achievements + wakatime via .github/workflows/metrics.yml -->
+<div align="center">
+  <img src="https://metrics.lecoq.io/devhimelali?template=classic&base=0&isocalendar=1&isocalendar.duration=full-year" alt="Isometric commit calendar" width="100%" />
+  <br/>
+  <img src="./metrics.achievements.svg" alt="GitHub achievements" width="100%" />
+  <br/>
+  <img src="./metrics.wakatime.svg" alt="WakaTime coding activity" width="100%" />
+</div>
+
+<br/>
+
+### Profile summary
+
+Interactive language, commit, and repo breakdowns via [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github):
+
+<div align="center">
+  <a href="https://profile-summary-for-github.com/user/devhimelali">
+    <img src="https://img.shields.io/badge/Open_Profile_Summary-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Open profile summary" />
+  </a>
 </div>
 
 ---

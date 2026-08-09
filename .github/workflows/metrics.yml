@@ -1,0 +1,51 @@
+# Generates SVG metrics for the profile README.
+# Requires repo secret METRICS_TOKEN (scopeless GitHub PAT).
+# WakaTime uses existing secret WAKATIME_API_KEY.
+# Docs: https://github.com/lowlighter/metrics
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Isometric commit calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          plugin_achievements_limit: 8
+
+      - name: WakaTime
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.wakatime.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_sections: time, projects, languages, editors
+          plugin_wakatime_days: 30
+          plugin_wakatime_limit: 5
