@@ -1,110 +1,72 @@
-## Full-Stack Web Developer | Laravel, React, Vue, Next.js, Tailwind | Building Fast & Scalable Web Apps | Web App Specialist | Passionate about Clean Code & Scalable Solutions
+# Himel Ali — Full-Stack Web Developer
+
+**Laravel · Vue.js · React · SQL · AI-Assisted Engineering**
+
+<div align="center">
+  <img height="200" src="https://github.com/devhimelali/devhimelali/raw/main/banner.jpeg" alt="Himel Ali banner" />
+</div>
 
 <br/>
+
+I build scalable web applications in the **Laravel** ecosystem, paired with modern frontends in **Vue.js** and **React**. My work centers on reliable payment integrations (**SSLCOMMERZ**, **Stripe**, **PayPal**), performance tuning (**LCP**, Core Web Vitals, PageSpeed), and custom **WordPress** plugins when the product calls for it.
+
+I also lean into **AI-assisted engineering** with tools like **Cursor** and **Loveable**—using them to move faster without sacrificing clean architecture or maintainable code.
+
+---
+
+## Professional Focus
+
+- **Scalable Laravel applications** — APIs, authentication, queues, and maintainable backend architecture
+- **Modern frontends** — Vue.js and React for responsive, user-focused interfaces
+- **Payment gateway integrations** — SSLCOMMERZ, Stripe, and PayPal wired into real checkout flows
+- **Performance optimization** — LCP, Core Web Vitals, and PageSpeed improvements that users can feel
+- **Custom WordPress plugins** — tailored functionality beyond off-the-shelf themes and plugins
+- **AI-assisted engineering** — Cursor and Loveable woven into day-to-day development workflows
+
+---
+
+## Tech Stack
+
+### Core
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+---
+
+## GitHub Snapshot
+
 <div align="center">
-  <img height="200" src="https://github.com/devhimelali/devhimelali/raw/main/banner.jpeg"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=devhimelali&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devhimelali&layout=compact&langs_count=5&theme=transparent&hide_border=true&card_width=320" height="160" alt="Top languages" />
 </div>
 
-###
+---
 
-<h2 align="left">💫 About Me:</h2>
+## Connect with Me
 
-###
-I’ve always been fascinated by how great design and clean code can turn complex ideas into seamless digital experiences.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devhimelali/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/devhimelali)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@devhimel)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/devhimel)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20078185/devhimel)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himel.phy160@gmail.com)
 
-Early in my journey, I noticed how many businesses struggled with slow websites, outdated systems, and frustrating user interfaces that drove customers away. That problem inspired me to learn how to build **fast**, **scalable**, and **user-friendly solutions** — and I haven’t stopped since.
-
-Today, I work with a wide range of technologies including **_HTML_**, **_CSS_**, **_SCSS_**, **_JavaScript_**, **_TypeScript_**, **_jQuery_**, **_Bootstrap_**, **_TailwindCSS_**, **_Alpine.js_**, **_Vue.js_**, **_Pinia_**, **_Axios_**, **_React.js_**, **_Redux_**, **_Next.js_**, **_PHP_**, **_Laravel_**, **_WordPress_**, **_Git/GitHub_**, **_MySQL_**, **_PostgreSQL_**, **_MongoDB_**, **_Supabase_**, and **_Postman_**. I use these tools to craft responsive web apps, integrate APIs, and build systems that solve real business problems.
-
-My approach is simple: understand the problem, design an elegant solution, and deliver a product that improves performance and user experience. I care about writing maintainable code, optimizing for speed, and creating intuitive interfaces that engage users and drive results.
-
-I’m passionate about collaborating with businesses and teams who want to bring bold ideas to life.
-
-📩 Let’s connect — if you need a developer who can transform challenges into well-built, high-performing applications, I’d love to talk.
-
-
-<p align="left">👁️‍🗨️ Profile views</p>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/devhimelali/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devhimelali&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devhimelali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=devhimelali&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=devhimelali&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devhimelali&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/devhimelali/devhimelali/output/snake.svg" alt="Snake animation" />
-
-###
-
-## 📊 This year I spent my time on
-
-<figure><embed src="https://wakatime.com/share/@devhimel/972e4ce8-dbf9-4105-bdc7-3f8ff500a55b.svg"></embed></figure>
-
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
-<h2 align="left">🌐 Socials:</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.facebook.com/devhimelali/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/devhimelali" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://x.com/devhimelali" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/devhimelali/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="01778623121" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="01778623121" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="dev.himel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://medium.com/@devhimel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/20078185/devhimel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/devhimelali" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  </a>
-  <a href="https://codepen.io/devhimel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
-  </a>
-  <a href="https://dev.to/devhimel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <a href="himel.phy160@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">💻 Tech Stack:</h2>
-
-###
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,jquery,typescript,alpinejs,vite,vue,pinia,vuetify,vitest,react,redux,threejs,vercel,netlify,php,laravel,wordpress,mysql,supabase,sqlite,redis,prisma,postgres,mongodb,linux,ubuntu,windows,git,github,gitlab,postman)](https://skillicons.dev)
-
-
-###
+Open to collaborating on Laravel-powered products, performance-focused frontends, and payment-heavy applications. Reach out anytime.
