@@ -1,5 +1,5 @@
 # Generates SVG metrics for the profile README.
-# Requires repo secret METRICS_TOKEN (scopeless GitHub PAT).
+# Requires repo secret METRICS_TOKEN (GitHub PAT with `read:user` and `public_repo` scopes).
 # WakaTime uses existing secret WAKATIME_API_KEY.
 # Docs: https://github.com/lowlighter/metrics
 name: Metrics
@@ -42,7 +42,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.wakatime.svg
-          token: NOT_NEEDED
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
