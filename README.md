@@ -66,6 +66,7 @@ I also lean into **AI-assisted engineering** with tools like **Cursor** and **Lo
 <div align="center">
   <img src="https://metrics.lecoq.io/devhimelali?template=classic&base=0&isocalendar=1&isocalendar.duration=full-year" alt="Isometric commit calendar" width="100%" />
   <br/>
+  <img src="./metrics.isocalendar.svg" alt="Isometric commit calendar" width="100%" />
   <img src="./metrics.achievements.svg" alt="GitHub achievements" width="100%" />
   <br/>
   <img src="./metrics.wakatime.svg" alt="WakaTime coding activity" width="100%" />
