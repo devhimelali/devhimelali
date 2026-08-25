@@ -54,8 +54,8 @@ I also lean into **AI-assisted engineering** with tools like **Cursor** and **Lo
 ## GitHub Snapshot
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devhimelali&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devhimelali&layout=compact&langs_count=5&theme=transparent&hide_border=true&card_width=320" height="160" alt="Top languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=devhimelali&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=devhimelali&layout=compact&langs_count=5&theme=transparent&hide_border=true&card_width=320" height="160" alt="Top languages" />
 </div>
 
 <br/>
